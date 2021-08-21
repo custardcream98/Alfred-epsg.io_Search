@@ -42,3 +42,4 @@ You can also easily copy the WKT or Proj4 code of the coordinate system using th
 ## Credits
 * [Alfred-Workflow](https://github.com/deanishe/alfred-workflow) by denishe
 * [Alp](https://github.com/phyllisstein/alp) by phyllisstein
+* [epsg.io](https://github.com/maptiler/epsg.io) by maptiler
