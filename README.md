@@ -1,10 +1,11 @@
 # Alfred-epsg.io_Search
 Simple Alfred Workflow for finding the EPSG code(SRID) by name of the coordinate system, or finding the name of the coordinate system by the EPSG code at [EPSG.io](http://epsg.io/).  
 You can also easily copy the WKT or Proj4 code of the coordinate system using this Workflow.
-
+The subtext informs whether the coordinate system is GCS or PCS, and the unit it uses.
 
 [EPSG.io](http://epsg.io/) 를 이용해 좌표계 이름을 입력(영문)하면 EPSG 코드(SRID)를 찾거나, EPSG 코드를 입력하면 좌표계의 이름을 찾는 Alfred Workflow입니다.  
 이 Workflow를 이용해 좌표계의 WKT나 Proj4 코드도 쉽게 복사할 수 있습니다.  
+서브텍스트에는 해당 좌표계가 GCS인지 PCS인지, 단위는 무엇인지에 대한 정보가 나옵니다.
 
 --------------
 ## Installation
