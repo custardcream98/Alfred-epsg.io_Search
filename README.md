@@ -11,12 +11,12 @@ The subtext informs whether the coordinate system is GCS or PCS, and the unit it
 ## Installation
 * Download "[EPSG.io Search.alfredworkflow](https://github.com/custardcream98/Alfred-epsg.io_Search/raw/main/EPSG.io%20Search.alfredworkflow)"
 * Double click the downloaded file
-* You can download the workflow on Releases too.
+* You can download the workflow on [Releases](https://github.com/custardcream98/Alfred-epsg.io_Search/releases) too.
 
 ## Installation (in Korean)
 * "[EPSG.io Search.alfredworkflow](https://github.com/custardcream98/Alfred-epsg.io_Search/raw/main/EPSG.io%20Search.alfredworkflow)" 를 다운로드합니다.
 * 다운로드한 파일을 더블클릭합니다.
-* Releases에서도 다운받을 수 있습니다.
+* [Releases](https://github.com/custardcream98/Alfred-epsg.io_Search/releases)에서도 다운받을 수 있습니다.
 
 --------------
 ## Instructions
